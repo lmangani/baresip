@@ -133,7 +133,7 @@ module_app		menu.so
 #module_app		syslog.so
 module_app		vidloop.so
 #module_app		gtk.so
-
+#module_app		mqtt.so
 
 #------------------------------------------------------------------------------
 # Module parameters
